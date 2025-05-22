@@ -1,0 +1,3 @@
+/home/l3x/Code/PTMS/build/CMakeFiles/prog.dir
+/home/l3x/Code/PTMS/build/CMakeFiles/edit_cache.dir
+/home/l3x/Code/PTMS/build/CMakeFiles/rebuild_cache.dir
